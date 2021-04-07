@@ -1,4 +1,4 @@
 # ScriptableObjectExamples
 Examples of interesting uses for Scriptable Objects.
 
-Currently WIP.
+Currently WIP. Accompanying blog post incoming.
