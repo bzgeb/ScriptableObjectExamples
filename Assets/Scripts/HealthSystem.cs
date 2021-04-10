@@ -9,4 +9,10 @@ public class HealthSystem : MonoBehaviour
     {
         _currentHealth = _maxHealth.Value;
     }
+
+    public void TakeDamage(int damage)
+    {
+        _currentHealth -= damage;
+        _currentHealth = Mathf.Max(0, _currentHealth);
+    }
 }
