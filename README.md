@@ -1,4 +1,4 @@
 # ScriptableObjectExamples
-Examples of interesting uses for Scriptable Objects.
+Example uses for Scriptable Objects.
 
-Currently WIP. Accompanying blog post incoming.
+You can read the accompanying blog post [here](https://bronsonzgeb.com/index.php/2021/04/10/using-unity-scriptable-objects-to-solve-architecture-problems/).
